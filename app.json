@@ -1,10 +1,16 @@
 {
   "expo": {
     "name": "wallet-app",
-    "slug": "wallet-app",
+    "slug": "wallbox",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "9646a4b2-12d6-4e8b-85f8-867d638c9997"
+      }
+    },
+    "owner": "edgaroliveirace"
   }
 }
